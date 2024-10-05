@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "lowdb": "^7.0.1",
+    "mongodb": "^6.9.0",
     "nanostores": "^0.11.3",
     "next": "14.2.13",
     "react": "^18",
